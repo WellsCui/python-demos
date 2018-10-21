@@ -1,0 +1,82 @@
+Amazon’s most asked interview questions
+2.4
+1) K largest elements from a big file or array.
+
+2) Find a triplet a, b, c such that a2 = b2 + c2. Variations of this problem like find a triplet with sum equal to 0. Find a pair with given sum. All such questions are efficiently solved using hashing. – Practice here
+
+3) Binary tree traversal questions like left view, right view, top view, bottom view, maximum of a level, minimum of a level, children sum property, diameter etc.
+
+4) Convert a Binary tree to DLL – Practice here
+
+5) Lowest Common ancestor in a Bianry Search Tree and Binary Tree.
+
+7) Implement a stack with push(), pop() and min() in O(1) time.
+
+8) Reverse a linked list in groups of size k – Practice here
+
+9) Given two numbers represented by two linked lists, write a function that returns sum list – Practice here
+
+10) Rotate a matrix by 90 degree.
+
+11) Stock span problem
+
+12) Next greater element
+
+12) Some Dynamic Programming problems like:
+
+Maximum sum subarray such that no elements are consecutive – Practice here
+Edit distance
+Assembly line scheduling
+13) Why Amazon?
+
+14) Questions about projects done in previous company or final year.
+
+
+Level – Easy
+
+Get minimum element from stack – Practice here
+Serialize and deserialize a binary tree – Practice here
+Print a binary tree in a vertical order – Practice here
+Celebrity problem – Practice here
+Level order traversal
+Swap the kth element from starting and from the end position – Practice here
+Binary tree to bst – Practice here
+Max sum in the configuration – Practice here
+Find the nth element of spiral matrix – Practice here
+Count the number of occurrences in a sorted array
+Find the smallest window in a string containing all characters of another string
+Find the maximum of all subarrays of size k
+Multiply two numbers represented as a linked list.
+Find the kth smallest element in row wise and column wise sorted matrix
+Minimum swaps required to arrange pairs
+There is an array of N numbers ranging from 1 to N. Only 1 number is missing, return the index of that number
+Find the second largest and second smallest in a given array in single traversal.
+Find power(x,y) without using pow function.(divide and conquer approach required)
+Count possible decoding sequence
+Level – Medium
+
+Given two string print them inter leaving strings characters
+Minimum cost required to travel from top left to the bottom right in a matrix
+Maximum difference between node and its ancestors – Practice here
+Min distance between two given nodes of a binary tree – Practice here
+Find the number of island – Practice here
+Topological Sort – Practice here
+Detect cycle in a directed graph – Practice here
+Flattening a link list – Practice here
+Detect a loop in a linked list – Practice here
+Check if a binary tree is BST or not
+Min Cost path
+Count ways to reach nth stair
+Maximum Subarray Problem
+Palindrome Partitioning
+Given a binary tree find the minimum root to leaf height.
+Implement LRU cache
+Level – Hard
+
+Boolean paranthesis – Practice here
+Maximum Index – Practice here
+Largest Number formed in the array – Practice here
+Find the length of maximum numbers of consecutive numbers jumped up in an array
+Delete the elements in a linklist whose sum is equal to zero
+Given a list of numbers of odd length design an algorithm to remove a number and divide the rest numbers equaly so as it makes there sum same
+Find diameter of a binary tree
